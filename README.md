@@ -1,0 +1,1 @@
+# AI-Outdoor-Adventure-Planner
